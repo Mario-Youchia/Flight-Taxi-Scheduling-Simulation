@@ -1,0 +1,10 @@
+FT	ID	BT	WT	ST
+9	15	3	0	22	
+18	3	4	8	602	
+319	4	5	308	86	
+Flights: 3 [Norm:2, VIP:4]
+Areas: 2
+Area 1: Lanes: 2 [Norm:1, VIP : 2]
+Area 2: Lanes: 1 [Norm:1, VIP : 2]
+Avg Wait = 105, Avg Serv = 236
+Auto-promoted: 1
